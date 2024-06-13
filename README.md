@@ -1,1 +1,2 @@
-# cloud-exam
+# Exam
+### Paula-Manuela Giurgiu ###
